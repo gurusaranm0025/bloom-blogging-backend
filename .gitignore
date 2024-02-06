@@ -1,2 +1,5 @@
 node_modules
 package-lock.json
+bloom-blogging-firebase-adminsdk.json
+
+.env*
