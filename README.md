@@ -11,3 +11,5 @@ This repo contains the backend code of this platform.
 - **Mongoose & MongoDB**
 - **Firebase and Firebase Authentication**
 - **JSON Web Token & nanoid**
+
+##### [Project link](https://bloom-blogging.onrender.com)
